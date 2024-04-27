@@ -24,7 +24,7 @@ git clone https://github.com/diwamln/node-express-calculator.git
 3. Masuk Ke Dalam Folder Hasil Clone
 
 ```
-cd calculator
+cd node-express-calculator
 ```
 
 # How to Use and Configuration Node JS Express
