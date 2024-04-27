@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.postimg.cc/NGdPQYp9/IMG-20230319-221225.jpg" width="100%"></p>
+<p align="center"><img src="https://i.postimg.cc/NGdPQYp9/IMG-20230319-221225.jpg" width="90%"></p>
 
 ## About this Project
 
@@ -27,7 +27,7 @@ git clone https://github.com/diwamln/node-express-calculator.git
 cd node-express-calculator
 ```
 
-# How to Use and Configuration Node JS Express
+#  Node JS config
 
 1. Install Node Package Manager Terlebih Dahulu <br>
    [Download disini](https://nodejs.org/en/download/)
